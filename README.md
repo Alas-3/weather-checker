@@ -31,5 +31,5 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone [https://github.com/yourusername/weather-checker.git](https://github.com/Alas-3/weather-checker.git)
+   git clone [https://github.com/Alas-3/weather-checker.git]
    cd weather-checker

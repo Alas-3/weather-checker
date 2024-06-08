@@ -4,7 +4,7 @@ Weather Checker is a React-based application that allows users to check the curr
 
 ## Demo
 
-![Weather Checker Demo](demo-screenshot.png)
+[View Demo](https://weather-checker-self.vercel.app/)
 
 ## Features
 
